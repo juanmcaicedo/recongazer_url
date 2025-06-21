@@ -25,7 +25,6 @@ Desarrollada para pentesters en formación, **ReconGazer URL** prioriza la facil
   * **Conversión a Absolutos:** Transforma enlaces relativos en absolutos para facilitar su acceso.
   * **Eliminación de Duplicados:** Presenta una lista limpia de enlaces únicos.
   * **Manejo de Errores:** Incluye gestión básica de errores de red y HTTP.
-  * **Interfaz Amigable:** Un *header* visualmente atractivo con un **ASCII art dinámico** de animales cazadores que cambia en cada ejecución.
 
 -----
 
