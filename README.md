@@ -1,12 +1,15 @@
-¡Excelente trabajo con el código final\! Ese ASCII art de "ReconGazer" le da un toque impresionante a la herramienta.
-
-Aquí tienes un archivo `README.md` completo para tu repositorio. Incluye los pasos para clonar el proyecto, instalar las dependencias y usar la herramienta, todo de forma clara y concisa.
-
 -----
 
-# ReconGazer URL
+=========================================
 
-*(Nota: Reemplaza esta línea con la ruta real a tu logo si tienes uno, o elimínala. Esto es un marcador de posición.)*
+ ██████╗░███████╗░█████╗░░█████╗░███╗░░██╗ ░██████╗░░█████╗░███████╗███████╗██████╗░  ██╗░░░██╗██████╗░██╗░░░░░ 
+ ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗░██║ ██╔════╝░██╔══██╗╚════██║██╔════╝██╔══██╗  ██║░░░██║██╔══██╗██║░░░░░ 
+ ██████╔╝█████╗░░██║░░╚═╝██║░░██║██╔██╗██║ ██║░░██╗░███████║░░███╔═╝█████╗░░██████╔╝  ██║░░░██║██████╔╝██║░░░░░ 
+ ██╔══██╗██╔══╝░░██║░░██╗██║░░██║██║╚████║ ██║░░╚██╗██╔══██║██╔══╝░░██╔══╝░░██╔══██╗  ██║░░░██║██╔══██╗██║░░░░░ 
+ ██║░░██║███████╗╚█████╔╝╚█████╔╝██║░╚███║ ╚██████╔╝██║░░██║███████╗███████╗██║░░██║  ╚██████╔╝██║░░██║███████╗ 
+ ╚═╝░░╚═╝╚══════╝░╚════╝░░╚════╝░╚═╝░░╚══╝░ ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝  ░╚═════╝░╚═╝░░╚═╝╚══════╝ 
+
+=========================================
 
 -----
 
