@@ -49,10 +49,6 @@ git clone https://github.com/juanmcaicedo/tools_cyber.git
 cd tools_cyber
 ```
 
-*(**Nota:** Reemplaza `https://github.com/yourusername/recongazer-url.git` con la URL real de tu repositorio.)*
-
-Si no tienes un repositorio, simplemente guarda el código en un archivo `.py` (ej. `recongazer_url.py`) en tu sistema.
-
 ### 2\. **Instalación de Dependencias**
 
 **ReconGazer URL** requiere algunas librerías de Python. Asegúrate de tener `pip` (el gestor de paquetes de Python) instalado y actualizado.
@@ -79,7 +75,7 @@ Si no tienes un repositorio, simplemente guarda el código en un archivo `.py` (
 Una vez que las dependencias estén instaladas, puedes ejecutar **ReconGazer URL** directamente desde la terminal.
 
 ```bash
-python3 recongazer_url.py
+python3 extrac_url_website.py
 ```
 
 La herramienta te guiará pidiéndote que **ingreses la URL del sitio web objetivo**.
@@ -94,11 +90,5 @@ Si deseas expandir las capacidades de **ReconGazer URL**, considera estas mejora
   * **Filtrado de Enlaces:** Implementar filtros para incluir/excluir tipos de archivos específicos (PDFs, DOCs) o dominios.
   * **Exportar Resultados:** Guardar la lista de enlaces en un archivo de texto o CSV.
   * **Argumentos de Línea de Comandos:** Usar el módulo `argparse` para aceptar la URL directamente como un argumento.
-
------
-
-## 📧 Contacto
-
-Para cualquier pregunta o sugerencia, puedes contactar a Juan Caicedo.
 
 -----
