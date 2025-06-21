@@ -82,13 +82,3 @@ La herramienta te guiará pidiéndote que **ingreses la URL del sitio web objeti
 
 -----
 
-## 💡 Mejoras Futuras (Opcional)
-
-Si deseas expandir las capacidades de **ReconGazer URL**, considera estas mejoras:
-
-  * **Rastreo Recursivo:** Añadir la opción de rastrear enlaces encontrados hasta una cierta profundidad.
-  * **Filtrado de Enlaces:** Implementar filtros para incluir/excluir tipos de archivos específicos (PDFs, DOCs) o dominios.
-  * **Exportar Resultados:** Guardar la lista de enlaces en un archivo de texto o CSV.
-  * **Argumentos de Línea de Comandos:** Usar el módulo `argparse` para aceptar la URL directamente como un argumento.
-
------
