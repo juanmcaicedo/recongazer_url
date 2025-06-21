@@ -45,8 +45,8 @@ Sigue estos pasos para poner en marcha **ReconGazer URL** en tu sistema.
 Si tienes tu código en un repositorio de Git (como GitHub, GitLab, Bitbucket), el primer paso es clonarlo en tu máquina local.
 
 ```bash
-git clone https://github.com/juanmcaicedo/tools_cyber.git
-cd tools_cyber
+git clone https://github.com/juanmcaicedo/recongazer_url.git
+cd recongazer_url
 ```
 
 ### 2\. **Instalación de Dependencias**
