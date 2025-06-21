@@ -46,13 +46,18 @@ def extraer_enlaces(url):
 
 def main():
     print("=========================================")
-    print(" Extractor de Enlaces de Páginas Web v1.0")
-    print("=========================================")
-    print("Herramienta para el reconocimiento de Red Team.")
-    print("Recuerda usarla de forma ética y legal.")
+    print("\n ██████╗░███████╗░█████╗░░█████╗░███╗░░██╗ ░██████╗░░█████╗░███████╗███████╗██████╗░  ██╗░░░██╗██████╗░██╗░░░░░ ")
+    print(" ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗░██║ ██╔════╝░██╔══██╗╚════██║██╔════╝██╔══██╗  ██║░░░██║██╔══██╗██║░░░░░ ")
+    print(" ██████╔╝█████╗░░██║░░╚═╝██║░░██║██╔██╗██║ ██║░░██╗░███████║░░███╔═╝█████╗░░██████╔╝  ██║░░░██║██████╔╝██║░░░░░ ")
+    print(" ██╔══██╗██╔══╝░░██║░░██╗██║░░██║██║╚████║ ██║░░╚██╗██╔══██║██╔══╝░░██╔══╝░░██╔══██╗  ██║░░░██║██╔══██╗██║░░░░░ ")
+    print(" ██║░░██║███████╗╚█████╔╝╚█████╔╝██║░╚███║ ╚██████╔╝██║░░██║███████╗███████╗██║░░██║  ╚██████╔╝██║░░██║███████╗ ")
+    print(" ╚═╝░░╚═╝╚══════╝░╚════╝░░╚════╝░╚═╝░░╚══╝░ ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝  ░╚═════╝░╚═╝░░╚═╝╚══════╝ ")
+    print("\n=========================================")
+    print("Herramienta para la enumeración de enlaces en una página web.")
+    print("Recuerda usarla de forma ética y legal. By: Juan Caicedo")
     print("=========================================\n")
 
-    url_objetivo = input("Ingresa la URL objetivo (ej. https://ejemplo.com): ")
+    url_objetivo = input("Ingresa la URL del sitio web (Ejemplo. https://ejemplo.com): ")
 
     if not url_objetivo.startswith('http://') and not url_objetivo.startswith('https://'):
         print("[!] La URL debe empezar con 'http://' o 'https://'. Intentando añadir 'https://'...")
